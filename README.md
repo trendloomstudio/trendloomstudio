@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm Ajit Waghare 👋
 
 ### Software Development · E-commerce Solutions · Digital Products · Creative Services
